@@ -32,7 +32,6 @@ Full stack developer with extensive experience in developing scalable and respon
 
  ## Top Open-Source
 [![Pluton](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=pluton&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/pluton)
-[![NutriLife](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=nutrilife&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/nutrilife)
 
 <!-- Repos Button !-->
 <div align="left"> 
