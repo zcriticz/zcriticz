@@ -31,7 +31,7 @@ Full stack developer with extensive experience in developing scalable and respon
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <br/> <br/>
 
  ## Top Open-Source
-[![Pluton](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/)
+[![Pluton](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=pluton&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/pluton)
 
 <!-- Repos Button !-->
 <div align="left"> 
