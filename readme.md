@@ -28,10 +28,7 @@ Full stack developer with extensive experience in developing scalable and respon
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-<br/> <br/>
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) <br/> <br/>
 
  ## Top Open-Source
 [![Pluton](https://github-readme-stats.vercel.app/api/pin/?username=zcriticz&repo=pluton&border_color=2382F8&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=2382F8)](https://github.com/zcriticz/pluton)
