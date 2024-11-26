@@ -25,13 +25,13 @@ Full stack developer with extensive experience in developing scalable and respon
 ## Code
 
 #### Main Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
+[![POO](https://skillicons.dev/icons?i=java,spring)](https://skillicons.dev)
 
 #### Game Devopment
-[![My Skills](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
+[![Game Tools](https://skillicons.dev/icons?i=unity,godot)](https://skillicons.dev)
 
 #### Others Knowledges
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,typescript&perline=3)](https://skillicons.dev) <br/> <br/>
+[![Web Development](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,typescript&perline=3)](https://skillicons.dev) <br/> <br/>
 
 
  ## Top Open-Source
